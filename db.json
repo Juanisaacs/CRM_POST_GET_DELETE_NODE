@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "juanito",
+      "empresa": "la empresa de 0",
+      "email": "aaaaa@aAaajuan.com",
+      "telefono": "6662232383",
+      "id": 27
+    },
+    {
+      "nombre": "jose",
+      "email": "josejos@jose.es",
+      "telefono": "27378928",
+      "empresa": "helktyo",
+      "id": 28
+    },
+    {
+      "nombre": "nerea",
+      "email": "paco@paco",
+      "telefono": "152718918",
+      "empresa": "pocos123",
+      "id": 29
+    },
+    {
+      "nombre": "juanitpepe",
+      "empresa": "juantiii",
+      "email": "EQDE@KBGBD.es",
+      "telefono": "63621632",
+      "id": 30
+    }
+  ]
+}
